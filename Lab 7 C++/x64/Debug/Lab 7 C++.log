@@ -1,0 +1,22 @@
+﻿  Classes.cpp
+  Lab 7 C++.cpp
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Classes.h(114,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Classes.h(110,1): message : while compiling class template member function 'bool Triangular<double>::IsRectangular(void)'
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Classes.h(88,4): message : see reference to function template instantiation 'bool Triangular<double>::IsRectangular(void)' being compiled
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Lab 7 C++.cpp(22,25): message : see reference to class template instantiation 'Triangular<double>' being compiled
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Classes.h(115,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\taras\source\repos\Lab 7 C++\Lab 7 C++\Classes.h(116,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Generating Code...
+  Lab 7 C++.vcxproj -> C:\Users\taras\source\repos\Lab 7 C++\x64\Debug\Lab 7 C++.exe
